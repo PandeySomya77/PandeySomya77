@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about Django 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/developer_somya/) [LinkedIn](https://www.linkedin.com/in/somya-pandey-67aab0140/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/developer_somya/) | [LinkedIn](https://www.linkedin.com/in/somya-pandey-67aab0140/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to Cook.
 
